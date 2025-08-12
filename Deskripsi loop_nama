@@ -1,0 +1,13 @@
+Mengulang Nama dengan Perulangan Python
+Materi ini menunjukkan cara menggunakan perulangan (for dan while) untuk menampilkan nama pengguna berkali-kali di Python.
+Langkah yang dilakukan:
+
+Meminta input nama dari pengguna.
+
+Mengulang nama sebanyak jumlah yang ditentukan menggunakan for loop.
+
+Mengulang nama dengan cara lain menggunakan while loop.
+
+Menampilkan nomor urut agar hasil lebih rapi.
+
+Materi ini membantu siswa memahami cara kerja perulangan dan variabel penghitung dalam Python.
